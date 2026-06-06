@@ -16,8 +16,8 @@
 - Software Engineering Internships
 
 📫 Contact:
-Email: lipsabehera2005@gmail.com
-LinkedIn: www.linkedin.com/in/lipsa-behera-2bb487294
+- Email: lipsabehera2005@gmail.com
+- LinkedIn: www.linkedin.com/in/lipsa-behera-2bb487294
 <!--
 **Lipsadev20/Lipsadev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
